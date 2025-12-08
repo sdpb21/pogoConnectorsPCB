@@ -1,0 +1,12 @@
+Added Component: Designator=POGO1(PogoConnectorFemale)
+Added Component: Designator=POGO2(YZ104614067F-03020-02)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "YZ104614067F-03020-02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPOGO1_1 Pin=POGO1-1
+Added Pin To Net: NetName=NetPOGO1_1 Pin=POGO2-3
+Added Net: Name=NetPOGO1_1
+Added Pin To Net: NetName=NetPOGO1_2 Pin=POGO1-2
+Added Pin To Net: NetName=NetPOGO1_2 Pin=POGO2-2
+Added Net: Name=NetPOGO1_2
+Added Pin To Net: NetName=NetPOGO1_3 Pin=POGO1-3
+Added Pin To Net: NetName=NetPOGO1_3 Pin=POGO2-1
+Added Net: Name=NetPOGO1_3
